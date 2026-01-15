@@ -1,14 +1,13 @@
 # End-To-End-Data-Engineering-Project-DBT-Snowflake-Airflow
 ---
 
-# 📖 Overview:
+# 📖 Overview
 
----
 This project is a complete data engineering pipeline using dbt (Data Build Tool), Snowflake (Data Warehouse), and Apache Airflow (Orchestration Tool). It covers data ingestion, transformation, and scheduling in a structured and scalable manner.
 
----
+
 # Tech Stack
----
+
 
 * dbt Core – For data transformation and modeling
 * Snowflake – Cloud-based data warehouse
@@ -16,12 +15,12 @@ This project is a complete data engineering pipeline using dbt (Data Build Tool)
 * Python – Scripting and automation
 * Git – Version control
   
----
 
+---
 # 📂 Repository Structure
 
----
 
+```
 data-engineering-project/
 │
 ├── dags/   
@@ -42,22 +41,21 @@ data-engineering-project/
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-
-
+```
 ---
+
 # dbt docs 
----
-
 
 <img width="1846" height="741" alt="dbt-dag" src="https://github.com/user-attachments/assets/fe2f34d9-5806-4d41-aac8-6b569005fc30" />
 
 ---
 # 🛡️ License
----
+
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
----
+
+
 ## 🌟 About Me
----
+
 
 Hi there! I'm **AbdelRahman Alaa**,  **Data Engineer**. 
 
