@@ -1,5 +1,5 @@
 # End-To-End-Data-Engineering-Project-DBT-Snowflake-Airflow
----
+
 
 # 📖 Overview
 
@@ -16,7 +16,7 @@ This project is a complete data engineering pipeline using dbt (Data Build Tool)
 * Git – Version control
   
 
----
+
 # 📂 Repository Structure
 
 
@@ -42,13 +42,13 @@ data-engineering-project/
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ```
----
+
 
 # dbt docs 
 
 <img width="1846" height="741" alt="dbt-dag" src="https://github.com/user-attachments/assets/fe2f34d9-5806-4d41-aac8-6b569005fc30" />
 
----
+
 # 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
